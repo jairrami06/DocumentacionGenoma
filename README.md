@@ -16,7 +16,7 @@ Define la estructura de un objeto y las relaciones.
 `ENTITY [NombreEntidad]: [atributo]:[TIPO], [RelacionEntidad]`
 
 | Tipo de Dato | Descripción |
-| --- | --- | --- |
+| --- | --- |
 | `TEXT` | Cadena corta de texto |
 | `TEXT_LONG` | Texto extenso | 
 | `NUMBER` | Valor numérico (entero/decimal) |
