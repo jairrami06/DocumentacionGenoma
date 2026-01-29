@@ -15,15 +15,15 @@ Define la estructura de un objeto y las relaciones.
 **Sintaxis:**
 `ENTITY [NombreEntidad]: [atributo]:[TIPO], [RelacionEntidad]`
 
-| Tipo de Dato | Descripción | Renderizado UI |
+| Tipo de Dato | Descripción |
 | --- | --- | --- |
-| `TEXT` | Cadena corta de texto | `<input type="text">` |
-| `TEXT_LONG` | Texto extenso | `<textarea>` |
-| `NUMBER` | Valor numérico (entero/decimal) | `<input type="number">` |
+| `TEXT` | Cadena corta de texto |
+| `TEXT_LONG` | Texto extenso | 
+| `NUMBER` | Valor numérico (entero/decimal) |
 | `DATE` | Fecha | Date picker |
-| `BOOLEAN` | Verdadero/Falso | Checkbox / Toggle |
-| `IMAGE` | URL o archivo de imagen | Upload widget / `<img>` |
-| `[Entidad]` | Nombre de otra entidad definida | Select / Dropdown (Relación FK) |
+| `BOOLEAN` | Verdadero/Falso |
+| `IMAGE` | URL o archivo de imagen |
+| `[Entidad]` | Nombre de otra entidad definida |
 
 ### B. Componentes de Interfaz
 
