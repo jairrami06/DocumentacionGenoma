@@ -139,7 +139,6 @@ MENU MenuPrincipal:
 
 APP SistemaAcademico:
     THEME: "Light"
-    START_VIEW: VistaDashboard
     MENU: MenuPrincipal
 
 ```
